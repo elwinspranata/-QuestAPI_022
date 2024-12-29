@@ -126,6 +126,7 @@ fun HomeStatus(
     }
 }
 
+
 @Composable
 fun OnLoading(modifier: Modifier = Modifier) {
     Image(
