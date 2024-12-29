@@ -70,6 +70,7 @@ fun HomeScreen(
                 }
             )
         },
+
         floatingActionButton = {
             FloatingActionButton(
                 onClick = navigateToltemEntry,
