@@ -136,6 +136,7 @@ fun OnLoading(modifier: Modifier = Modifier) {
     )
 }
 
+
 @Composable
 fun OnError(retryAction: () -> Unit, modifier: Modifier = Modifier) {
     Column(
