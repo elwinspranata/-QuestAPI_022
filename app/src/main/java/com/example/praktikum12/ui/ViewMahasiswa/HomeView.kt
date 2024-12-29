@@ -151,6 +151,7 @@ fun OnError(retryAction: () -> Unit, modifier: Modifier = Modifier) {
     }
 }
 
+
 @Composable
 fun MhsLayout(
     mahasiswa: List<Mahasiswa>,
