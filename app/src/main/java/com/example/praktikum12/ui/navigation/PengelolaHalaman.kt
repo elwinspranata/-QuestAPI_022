@@ -26,6 +26,7 @@ fun PengelolaHalaman(navController: NavHostController = rememberNavController())
                 }
             )
         }
+
         composable(DestinasiEntry.route) {
             EntryMhsScreen(navigateBack = {
                 navController.navigate(DestinasiHome.route){
