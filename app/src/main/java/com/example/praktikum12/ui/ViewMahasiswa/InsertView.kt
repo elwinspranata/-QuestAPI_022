@@ -70,6 +70,7 @@ fun EntryMhsScreen(
     }
 }
 
+
 @Composable
 fun EntryBody(
     insertUiState: InsertUiState,
